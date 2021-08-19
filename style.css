@@ -173,6 +173,10 @@ h5 {
         gap: 1rem;
     }
 
+    .about {
+        padding: 0 1rem;
+    }
+
     #name {
         font-size: 2rem;
     }
@@ -219,4 +223,5 @@ h5 {
     }
 
 }
+
 
